@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "marketing_center_backend_working", "marketing_center_backend_working\marketing_center_backend_working.vcxproj", "{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Debug|x64.ActiveCfg = Debug|Win32
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Debug|x64.Build.0 = Debug|Win32
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Debug|x86.Build.0 = Debug|Win32
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Release|x64.ActiveCfg = Release|x64
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Release|x64.Build.0 = Release|x64
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Release|x86.ActiveCfg = Release|Win32
+		{DC4EB59D-71A7-459F-B2F4-CBA09B22B743}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72AF84DF-C5BF-41AF-AF56-2453F292817A}
+	EndGlobalSection
+EndGlobal
